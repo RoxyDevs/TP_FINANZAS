@@ -104,3 +104,5 @@ def calcular_portafolio_optimo(cantidad_tickets, start):
 # Ejemplo de uso
 cantidad_tickets = 3 # El usuario elige la cantidad de tickets
 calcular_portafolio_optimo(cantidad_tickets, start="2023-01-01")
+
+
